@@ -9,7 +9,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public interface OrbotConstants {
-
+    //for testing
     String TAG = "Orbot";
 
     String PREF_OR = "pref_or";
